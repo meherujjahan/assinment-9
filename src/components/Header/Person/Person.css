@@ -1,0 +1,16 @@
+
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 10px;
+}
+.person-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.single-container button{
+background-color: rgb(43, 42, 42);
+color: white;
+padding: 8px;
+border-radius: 5px;
+}

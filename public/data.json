@@ -1,0 +1,90 @@
+[
+    {
+      "key": 1,
+      "name": "Shekh Hasina",
+      "age": 53,
+      "country": "Bangladesh",
+      "selary": 70000,
+      "img": "https://cdn.britannica.com/46/199146-050-C345A41F/Sheikh-Hasina-Wazed-2012.jpg"
+    },
+    {
+      "key": 2,
+      "name": "Norendo Modi",
+      "age": 70,
+      "country": "India",
+      "selary": 68900,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_Prime_Minister_of_India%2C_Shri_Narendra_Modi.jpg"
+    },
+    {
+      "key": 3,
+      "name": "Scott Morrison",
+      "age": 50,
+      "country": "Austrila",
+      "selary": 100000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Prime_Ministers_of_Australia_Scott_Morrison.jpg"
+    },
+    {
+      "key": 4,
+      "name": "Justin Trudeau",
+      "age": 56,
+      "country": "Canada",
+      "selary": 89000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Trudeau_visit_White_House_for_USMCA_%28cropped%29.jpg"
+    },
+    {
+      "key": 5,
+      "name": "د افغانستاوزیر",
+      "age": 51,
+      "country": "Afganistan",
+      "selary": 67000,
+      "img": "https://www.aljazeera.com/wp-content/uploads/2021/09/2020-02-29T135206Z_699621803_RC2DAF9NW5XL_RTRMADP_3_USA-AFGHANISTAN-TALIBAN.jpg"
+    },
+    {
+      "key": 6,
+      "name": "Joo Baiden",
+      "age": 67,
+      "country": "USA",
+      "selary": 70000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg"
+    },
+    {
+      "key": 7,
+      "name": "Lotay Tshering",
+      "age": 56,
+      "country": "Vutan",
+      "selary": 60000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Prime_Minister_of_Bhutan_Dr._Lotay_Tshering_on_December_28%2C_2018_%28cropped%29.jpg"
+    },
+    {
+      "key": 8,
+      "name": "Incumbent Li ",
+      "age": 54,
+      "country": "China",
+      "selary": 70000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Xi_Jinping_2019.jpg"
+    },
+    {
+      "key": 9,
+      "name": "Kim Boo-kyum",
+      "age": 61,
+      "country": "South Qurea",
+      "selary": 70000,
+      "img": "https://en.wikipedia.org/wiki/Prime_Minister_of_South_Korea#/media/File:Kim_Boo-kyum_-_20170119_k_(cropped).jpg"
+    },
+    {
+      "key": 10,
+      "name": "Salman",
+      "age": 72,
+      "country": "Sodi Arab",
+      "selary": 90000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rodrigo_Duterte_meets_with_Salman_of_Saudi_Arabia_%282017-04-11%29_%28cropped%29.jpg"
+    },
+    {
+      "key": 11,
+      "name": "Imran Khan",
+      "age": 43,
+      "country": "Pakistan",
+      "selary": 60000,
+      "img": "https://en.wikipedia.org/wiki/Imran_Khan#/media/File:Imran_Ahmed_Khan_Niazi_-_UNGA_(48784380531)_(cropped).jpg"
+    }
+  ]
